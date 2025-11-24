@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5n1l2vP.png" group-title="Fútbol Argentino",ESPN Premium / TNT Sports HD
 http://45.5.151.251:8000/play/a00p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5n1l2vP.png" group-title="Fútbol Argentino",ESPN Premium / TNT Sports HD (Alternativo)
 http://45.5.151.251:8000/play/a00k/index.m3u8
